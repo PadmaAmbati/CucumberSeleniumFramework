@@ -1,0 +1,52 @@
+[main] INFO  stepDefinitions.Hooks  - This Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - This Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@5066d65fThis Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@a4b2d8fThis Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@5066d65fThis Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@75f5fd58This Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@5e01a982This Scenario is failed
+[main] INFO  stepDefinitions.Hooks  - io.cucumber.java.Scenario@13c3c1e1This Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - validate search functionalityThis Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cartThis Scenario is pass
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cart is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate search functionality
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate adding vegitables to cart
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cart is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate search functionality
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate adding vegitables to cart
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cart is failed
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate search functionality
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate adding vegitables to cart
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cart is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate search functionality
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate adding vegitables to cart
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate adding vegitables to cart is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate search functionality
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate search functionality is pass
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - Starting - validate adding vegetables to cart
+[main] INFO  stepDefinitions.Hooks  - ------------------------------
+[main] INFO  stepDefinitions.Hooks  - validate adding vegetables to cart is pass
